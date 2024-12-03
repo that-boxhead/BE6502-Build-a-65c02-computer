@@ -13,6 +13,8 @@
 # Autorouter files (exported from Pcbnew)
 .dsn
 
+*.lck
+
 documentation/simulation
 Resources/
 
